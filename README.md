@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-header-image]([https://user-images.githubusercontent.com/53733092/172211221-eeb91d81-b3fd-47dc-b862-e781876f2a8f.png](https://i.pinimg.com/736x/83/5e/0f/835e0f0b83da64eb3ec31fd9944ef00d.jpg))
+<p align="center">Yamin Phyu</p>
+
+🔭 I’m currently working on Infinity Information & Apps Dev Co., Ltd as a **Frontend Developer**.
